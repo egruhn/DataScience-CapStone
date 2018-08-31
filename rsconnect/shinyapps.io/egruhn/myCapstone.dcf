@@ -1,0 +1,12 @@
+name: myCapstone
+title: myCapstone
+username:
+account: egruhn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 416273
+bundleId: 1564417
+url: https://egruhn.shinyapps.io/myCapstone/
+when: 1535752734.90496
+asMultiple: FALSE
+asStatic: FALSE
