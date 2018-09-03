@@ -212,7 +212,7 @@ ui <- dashboardPage(
                         ),
                     tabPanel(title=HTML('<span style="font-weight:bold; font-size:18px; color:#1E77AB">Source Code</span>'),
                              HTML("<br><p style='font-size:16px'>All relevant files for this project and application can be viewed at this 
-                                  <a href='https://github.com/egruhn/DataScience-Capstone'>GitHub Repository</a>. Thanks for checking it out!</p>"))
+                                  <a href='https://github.com/egruhn/DataScience-Capstone'>GitHub Repository</a>. To view this GitHub account, right click and select 'Open Link in New Tab'.  Thanks for checking it out!</p>"))
                 )
             )
         )
